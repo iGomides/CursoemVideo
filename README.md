@@ -15,6 +15,6 @@ I have an interest in programming and a great fondness for the Python language,
 which I am studying through the Curso em Vídeo channel by Professor Gustavo Guanabara. 
 
 I do not intend for this repository to be structured. It should only list the more 
-than 100 exercises present in the course in question. 🇺🇸 🇺🇸
+than 100 exercises present in the course. 🇺🇸 🇺🇸
 
 https://www.cursoemvideo.com/curso/python-3-mundo-1/
