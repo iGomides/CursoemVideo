@@ -4,7 +4,6 @@
 Faça um algoritmo que leia o preço de um produto
 e mostre seu novo preço, com 5% de desconto.
 """
-from time import perf_counter
 
 preco = float(input("Valor do produto: "))
 desconto = (preco * 0.05)
