@@ -1,2 +1,5 @@
 # curso_em_video
-Este é um repositório de teste, cuja unica finalidade é o meu aprendizado em Git e GitHub.
+
+Este é um repositório criado por mim (Yan) unicamente para fins de estudo. 
+
+Tenho interesse por programação e grande simpatia pela linguagem Python. A qual estou estudando através do canal Curso em Vídeo do professor Gustavo Guanabara.
