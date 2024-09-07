@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e19046f7-0ee5-4e02-8424-e0a3fd3af822" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex015.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,8 @@
   "keyToString": {
     "Python.ex011.executor": "Run",
     "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -60,7 +64,7 @@
       <recent name="$PROJECT_DIR$/Aula 8 – Utilizando Módulos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex012">
+  <component name="RunManager" selected="Python.ex015">
     <configuration name="ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso_em_video" />
       <option name="ENV_FILES" value="" />
@@ -105,8 +109,77 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_em_video" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex013.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_em_video" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex014.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso_em_video" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex015.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex015" />
+        <item itemvalue="Python.ex014" />
+        <item itemvalue="Python.ex013" />
         <item itemvalue="Python.ex012" />
         <item itemvalue="Python.ex011" />
       </list>
@@ -168,7 +241,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725738855442</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1725739467294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725739467294</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <option name="closed" value="true" />
+      <created>1725739547689</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725739547689</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1725739578398</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725739578398</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
