@@ -1,5 +1,11 @@
 # Exercício 9 – Tabuada
 
+'''
+Faça um programa que leia um número Inteiro qualquer
+e mostre na tela a sua tabuada.
+'''
+
+
 num = int(input("Informe um número para ver sua tabuada: "))
 
 print("{} x  1 = {}".format(num, num * 1))

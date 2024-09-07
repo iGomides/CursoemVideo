@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e19046f7-0ee5-4e02-8424-e0a3fd3af822" name="Changes" comment="test" />
+    <list default="true" id="e19046f7-0ee5-4e02-8424-e0a3fd3af822" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/curso_em_video.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso_em_video.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7 – Operadores Aritméticos/ex011.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +60,11 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Aula 8 – Utilizando Módulos" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725698274579</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1725698941065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725698941065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
