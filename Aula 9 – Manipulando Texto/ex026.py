@@ -6,7 +6,6 @@ quantas vezes aparece a letra “A”, em que posição ela aparece
 a primeira vez e em que posição ela aparece a última vez.
 """
 
-
 frase = str(input('Digite uma frase: ')).lower()
 
 print("A frase possui {} letras 'a'.".format(frase.count('a')))
