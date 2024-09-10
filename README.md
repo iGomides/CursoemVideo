@@ -1,4 +1,4 @@
-"📚  Este armazena os exercícios do curso de Python ministrado pelo Professor Gustavo Guanabara, do canal Curso em Vídeo, que estou realizando.
+📚  Este armazena os exercícios do curso de Python ministrado pelo Professor Gustavo Guanabara, do canal Curso em Vídeo, que estou realizando.
 
 📝  Ele não tem o objetivo de ser estruturado. Servindo apenas como uma vitrine para que interessados possam acompanhar o meu desenvolvimento no curso.
 
