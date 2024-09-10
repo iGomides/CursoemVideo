@@ -7,10 +7,10 @@ mostre na tela cada um dos dígitos separados.
 
 num = str(input("Digite um número entre 0 e 9999: "))
 
-uni = (num[3])
-dez = (num[2])
-cem = (num[1])
-mil = (num[0])
+uni = int(num[3])
+dez = int(num[2])
+cem = int(num[1])
+mil = int(num[0])
 
 print("Unidade:{}".format(uni))
 print("Dezena:{}".format(dez))

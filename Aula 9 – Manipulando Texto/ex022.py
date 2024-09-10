@@ -10,11 +10,11 @@ Crie um programa que leia o nome completo de uma pessoa e mostre:
 
 name = str(input("Informe seu nome: ")).strip()
 
-print(name.upper())
-print(name.lower())
+print("O nome em maiúsculas fica: {}.".format(name.upper()))
+print("O nome em minúsculas fica: {}.".format(name.lower()))
 
 nospace = name.split()
 nospace = ''.join(nospace)
-print(nospace.__len__())
+print("Ao todo tem {} letras.".format(nospace.__len__()))
 
-print(name.find(' '))
+print("O primeiro nome tem {} letras.".format(name.find(' ')))
