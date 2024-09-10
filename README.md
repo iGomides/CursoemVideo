@@ -1,10 +1,9 @@
-📚  Este repositório tem o objetivo de armazenar os exercícios do curso de Python ministrado pelo Professor Gustavo Guanabara, do canal Curso em Vídeo, que estou realizando.
+📚 This repository stores the exercises from the Python course taught by Professor Gustavo Guanabara, from the Curso em Vídeo channel, which I am taking.
 
-📝  Ele não tem o objetivo de ser totalmente estruturado. Servindo apenas como uma vitrine para que interessados possam acompanhar o meu desenvolvimento no curso.
+📝 It is not intended to be structured. It serves only as a showcase for those interested to follow my progress in the course.
 
-💡  Minhas resoluções são feitas de forma independente, sem recorrer às soluções fornecidas pelo professor. Isso significa que muitos algoritmos estarão diferentes dos apresentados no curso, mas ainda assim produzem os mesmos resultados.
+💡 My solutions are done independently, without resorting to the solutions provided by the professor. This means that many algorithms will be different from those presented in the course, but they are still functional.
 
-📅  Os exercícios começaram a partir da Aula 5 do curso, e estão separados de acordo.
+📅 The exercises started from Lesson 5 of the course and are separated accordingly.
 
-▶️  Link para a playlist de exercícios: 
-https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
+▶️ Link to the exercise playlist: https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
