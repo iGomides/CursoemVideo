@@ -4,5 +4,7 @@
 
 ❗ Minhas resoluções são feitas de forma independente, sem recorrer às soluções fornecidas pelo professor. Isso significa que muitos algoritmos estarão diferentes dos apresentados no curso, mas ainda assim produzem os mesmos resultados.
 
+❗ Os exercícios começaram a partir da Aula 5 do curso, e estão separados de acordo.
+
 ▶️ Link para a playlist de exercícios: 
 https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
