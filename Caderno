@@ -1,0 +1,34 @@
+--- Bibliotecas ---
+
+As bibliotecas são coleções de módulos e funções que você pode usar para adicionar funcionalidades ao seu código sem precisar escrevê-las do zero. Por exemplo, a biblioteca NumPy é amplamente usada para computação científica e manipulação de arrays, enquanto a Pandas é excelente para análise de dados1.
+
+--- Módulos ---
+
+Um módulo é um arquivo que contém definições e implementações de funções, classes e variáveis que podem ser reutilizadas em diferentes partes de um programa. Você pode importar módulos usando a palavra-chave import. Por exemplo:
+
+import math
+print(math.sqrt(16))  # Saída: 4.0
+
+--- Funções ---
+
+Funções são blocos de código que realizam uma tarefa específica e podem ser reutilizados em diferentes partes do programa. Elas são definidas usando a palavra-chave def. Por exemplo:
+
+def saudacao(nome):
+    return f"Olá, {nome}!"
+
+print(saudacao("Maria"))  # Saída: Olá, Maria!
+
+--- Métodos ---
+
+Métodos são funções que pertencem a objetos e classes. Eles são chamados usando a notação de ponto. Por exemplo, em uma lista, o método append adiciona um item ao final da lista:
+
+lista = [1, 2, 3]
+lista.append(4)
+print(lista)  # Saída: [1, 2, 3, 4]
+
+-- - Ferramentas de Desenvolvimento ---
+
+Python possui várias ferramentas que facilitam o desenvolvimento, como:
+
+    Jupyter Notebook: Um ambiente interativo baseado na web, ideal para experimentação e visualização de dados1.
+    Pip: Um gerenciador de pacotes que permite instalar e gerenciar bibliotecas e dependências1.
