@@ -6,5 +6,4 @@
 
 📅  Os exercícios começaram a partir da Aula 5 do curso, e estão separados de acordo.
 
-▶️  Link para a playlist de exercícios: 
-https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
+▶️  Link para a playlist de exercícios: https://acesse.dev/EVZpO
