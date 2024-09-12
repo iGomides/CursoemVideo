@@ -1,4 +1,4 @@
-📚  Este diretório armazena os exercícios do curso de Python da plataforma Curso em Vídeo, que estou realizando.
+📚  Este repositório armazena os exercícios do curso de Python da plataforma Curso em Vídeo, que estou realizando.
 
 📝  Ele não tem o objetivo de ser estruturado. Apenas uma vitrine para que interessados possam acompanhar o meu desenvolvimento.
 
