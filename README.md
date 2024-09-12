@@ -1,9 +1,9 @@
-📚 This directory stores the exercises from the Python course on the Curso em Vídeo platform, which I am taking.
+📚 This directory contains the exercises from the Python course I’m taking on the Curso em Vídeo platform.
 
-📝 This is not intended to be structured. Just a showcase for interested parties to follow my development.
+📝 It’s not meant to be structured. It’s just a way for interested people to follow my progress.
 
-💡 My resolutions are independent, without resorting to the answers provided by the teacher. This means that many algorithms will be different from those presented in the course.
+💡 I solve the exercises on my own, without looking at the teacher’s answers. So, many of my solutions will be different from those shown in the course.
 
-📅 The exercises started from Lesson 5 of the course, and are separated accordingly.
+📅 The exercises start from Lesson 5 and are organized accordingly.
 
-▶️ Link to the exercises playlist: https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
+▶️ Here’s the link to the exercise playlist: https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
