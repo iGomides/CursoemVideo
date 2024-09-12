@@ -1,10 +1,9 @@
-📚  Este armazena os exercícios do curso de Python ministrado pelo Professor Gustavo Guanabara, do canal Curso em Vídeo, que estou realizando.
+📚 This directory stores the exercises from the Python course on the Curso em Vídeo platform, which I am taking.
 
-📝  Ele não tem o objetivo de ser estruturado. Servindo apenas como uma vitrine para que interessados possam acompanhar o meu desenvolvimento no curso.
+📝 This is not intended to be structured. Just a showcase for interested parties to follow my development.
 
-💡  Minhas resoluções são feitas de forma independente, sem recorrer às soluções fornecidas pelo professor. Isso significa que muitos algoritmos estarão diferentes dos apresentados no curso, ainda assim são funcionais.
+💡 My resolutions are independent, without resorting to the answers provided by the teacher. This means that many algorithms will be different from those presented in the course.
 
-📅  Os exercícios começaram a partir da Aula 5 do curso, e estão separados de acordo.
+📅 The exercises started from Lesson 5 of the course, and are separated accordingly.
 
-▶️  Link para a playlist de exercícios: 
-https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
+▶️ Link to the exercises playlist: https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
