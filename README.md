@@ -1,4 +1,4 @@
-📚 This directory contains the exercises from the Python course I’m taking on the Curso em Vídeo platform.
+📚 This repository contains the exercises from the Python course I’m taking on the Curso em Vídeo platform.
 
 📝 It’s not meant to be structured. It’s just a way for interested people to follow my progress.
 
