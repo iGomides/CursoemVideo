@@ -1,9 +1,10 @@
-📚 This repository contains the exercises from the Python course I’m taking on the Curso em Vídeo platform.
+📚  Este diretório armazena os exercícios do curso de Python da plataforma Curso em Vídeo, que estou realizando.
 
-📝 It’s not meant to be structured. It’s just a way for interested people to follow my progress.
+📝  Ele não tem o objetivo de ser estruturado. Apenas uma vitrine para que interessados possam acompanhar o meu desenvolvimento.
 
-💡 I solve the exercises on my own, without looking at the teacher’s answers. So, many of my solutions will be different from those shown in the course.
+💡  Minhas resoluções são independentes, sem recorrer às respostas fornecidas pelo professor. Isso significa que muitos algoritmos estarão diferentes dos apresentados no curso. Ainda assim, totalmente funcionais.
 
-📅 The exercises start from Lesson 5 and are organized accordingly.
+📅  Os exercícios começaram a partir da Aula 5 do curso, e estão separados de acordo.
 
-▶️ Here’s the link to the exercise playlist: https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
+▶️  Link para a playlist de exercícios: 
+https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
