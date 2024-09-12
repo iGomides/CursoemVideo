@@ -1,6 +1,6 @@
 # Exercício 32 – Ano Bissexto
-
 # Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+
 
 ano_atual = int(input("Digite o ano atual: "))
 divisor = 4
@@ -11,8 +11,8 @@ if resto == 0:
 else:
     print("Não estamos em um ano bissexto!")
     if resto + 1 ==4:
-        print("O próximo ano bissexto será {}.".format(ano_atual + 1))
+        print(f"O próximo ano bissexto será {ano_atual + 1}.")
     if resto + 2 ==4:
-        print("O próximo ano bissexto será {}.".format(ano_atual + 2))
+        print(f"O próximo ano bissexto será {ano_atual + 2}.")
     if resto + 3 == 4:
-        print("O próximo ano bissexto será {}.".format(ano_atual + 3))
+        print(f"O próximo ano bissexto será {ano_atual + 3}.")
