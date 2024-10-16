@@ -8,5 +8,3 @@
 
 ▶️ Playlist dos exercícios: 
 https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
-
-![image](https://github.com/user-attachments/assets/333e95d2-00a1-4734-80f4-c76f28321062)
