@@ -6,3 +6,4 @@ fim = 50
 
 for contagem in range(inicio, fim, 2):
     print(contagem + 1, end=' ')
+print('Acabou')
