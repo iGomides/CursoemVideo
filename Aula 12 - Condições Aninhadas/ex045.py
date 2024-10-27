@@ -1,5 +1,5 @@
 # Exercício 45 – GAME: Pedra Papel e Tesoura
-# Exercício Python 45: Crie um programa que faça o computador jogar Jokenpô com você.
+# Crie um programa que faça o computador jogar Jokenpô com você.
 
 import random
 
